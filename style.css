@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+body{
+    background-color: #F4EEE0;
+}
+
+.principal{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Bruno Ace SC', cursive;
+    color: #393646;
+    background-color: #f3dfb0;
+    text-align: center;
+    font-size: 70px;
+    border: solid 1px #000000 ;
+    width: 400px;
+}
+
+.ultimosMovimientos {
+    font-size: 35px;
+    color: #F4EEE0;
+    background-color: #393646;
+    width: 400px;
+    text-align: center;
+    border: solid 1px #000000 ;
+}
+
+.movimientos h3 {
+    font-size: 20px;
+    background-color: #6D5D6E;
+    color: #F4EEE0;
+    width: 400px;
+    border: solid 1px #000000 ;
+}
+
+.salida {
+    color: #D21312;
+    width: 400px;
+    border: solid 1px #000000 ;
+}
+
+.entrada {
+    color: #16FF00;
+    width: 400px;
+    border: solid 1px #000000 ;
+}
+
+.fecha {
+    font-size: 10px;
+    color: #6D5D6E;
+    width: 400px;
+    border: solid 1px #000000 ;
+}
+
+
+
